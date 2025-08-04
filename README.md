@@ -50,6 +50,5 @@ The objective was to **secure image data** by implementing a custom image encryp
 * Useful for **educational projects** on image security and pixel manipulation.
 * Can be extended to support **stronger encryption** using more advanced algorithms.
 
----
-\#Internship #Python #OpenCV #Encryption #Decryption #ProdigyInfotech #Task2 #ImageProcessing #MachineLearning #ComputerVision #CyberSecurity #NumPy #Matplotlib #PythonProjects #StudentProjects #LinkedInLearning #CodeWithYashas
+
 
