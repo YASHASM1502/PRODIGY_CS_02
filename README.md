@@ -1,9 +1,3 @@
- **Internship Task 2 – Image Encryption & Decryption using Python** 📸🔐
-
-🚀 I'm excited to share my **Task 2** from the **Prodigy InfoTech Internship Program**, where I implemented a basic yet effective **Image Encryption and Decryption System using Python**! 🐍
-
----
-
 ### 🔐 **🔹 Task 2: Image Encryption & Decryption**
 
 The objective was to **secure image data** by implementing a custom image encryption and decryption mechanism using **OpenCV**, **NumPy**, and **Matplotlib**.
