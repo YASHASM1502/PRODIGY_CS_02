@@ -3,6 +3,8 @@
 The objective was to **secure image data** by implementing a custom image encryption and decryption mechanism using **OpenCV**, **NumPy**, and **Matplotlib**.
 
 ---
+![Uploading image.png…]()
+
 
 ### 🛠️ **Technologies Used**
 
